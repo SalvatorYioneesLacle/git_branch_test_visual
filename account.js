@@ -1,3 +1,3 @@
-function account(name) {
-    return name;
+function testing(js) {
+    return js;
 }
